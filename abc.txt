@@ -1,0 +1,54 @@
+Wrong Input
+
+
+
+ ============ Database According to Date ============
+
+Computer ID : 1
+Computer Product : hp1
+Product Damage Status : Parts To Be Replaced
+Date Of Product Brought : 1
+Month Of Product Brought : 2
+Expected Date Of Delivery : 3
+Computer Product Type : Storage Device
+
+
+
+
+ ============ Database According to Date ============
+
+Computer ID : 2
+Computer Product : macbook
+Product Damage Status : Repair
+Date Of Product Brought : 1
+Month Of Product Brought : 6
+Expected Date Of Delivery : 7
+Computer Product Type : Input Device
+
+
+
+
+ ============ Database According to Storage Device ============
+
+Computer ID : 1
+Computer Product : hp1
+Product Damage Status : Parts To Be Replaced
+Date Of Product Brought : 1
+Month Of Product Brought : 2
+Expected Date Of Delivery : 3
+Computer Product Type : Storage Device
+
+
+
+
+ ============ Database According to Damage Type Parts to Be replace ============
+
+Computer ID : 1
+Computer Product : hp1
+Product Damage Status : Parts To Be Replaced
+Date Of Product Brought : 1
+Month Of Product Brought : 2
+Expected Date Of Delivery : 3
+Computer Product Type : Storage Device
+
+
